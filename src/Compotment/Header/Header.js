@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -9,16 +10,16 @@ const Header = () => {
         
         {/* Left: Logo */}
         <div className="text-2xl font-bold text-green-700">
-          Turf & Timber
+          <Link to="/">Turf & Timber</Link>
         </div>
 
         {/* Center: Navigation (Desktop) */}
         <nav className="hidden md:flex space-x-8 text-gray-700 font-medium">
-          <a href="#" className="hover:text-green-700">Home</a>
-          <a href="#" className="hover:text-green-700">Blog</a>
-          <a href="#" className="hover:text-green-700">Services</a>
-          <a href="#" className="hover:text-green-700">About Us</a>
-          <a href="#" className="hover:text-green-700">Contact Us</a>
+          <Link to="/" className="hover:text-green-700">Home</Link>
+          <Link to="/blog" className="hover:text-green-700">Blog</Link>
+          <Link to="/services" className="hover:text-green-700">Services</Link>
+          <Link to="/about" className="hover:text-green-700">About Us</Link>
+          <Link to="/contact" className="hover:text-green-700">Contact Us</Link>
         </nav>
 
         {/* Right: Button + Phone (Desktop) */}
@@ -26,15 +27,20 @@ const Header = () => {
           <span className="text-gray-700 font-semibold">
             📞 +49 123 456 789
           </span>
-          <button className="bg-green-700 text-white px-5 py-2 rounded-lg hover:bg-green-800 transition">
+          <button
+            type="button"
+            className="bg-green-700 text-white px-5 py-2 rounded-lg hover:bg-green-800 transition"
+          >
             Get Costing
           </button>
         </div>
 
         {/* Mobile Menu Button */}
         <button
+          type="button"
           className="md:hidden text-2xl"
           onClick={() => setIsOpen(!isOpen)}
+          aria-label="Toggle menu"
         >
           ☰
         </button>
@@ -44,15 +50,18 @@ const Header = () => {
       {isOpen && (
         <div className="md:hidden bg-white shadow-lg">
           <nav className="flex flex-col space-y-4 px-6 py-4 text-gray-700 font-medium">
-            <a href="#" className="hover:text-green-700">Home</a>
-            <a href="#" className="hover:text-green-700">Blog</a>
-            <a href="#" className="hover:text-green-700">Services</a>
-            <a href="#" className="hover:text-green-700">About Us</a>
-            <a href="#" className="hover:text-green-700">Contact Us</a>
+            <Link to="/" onClick={() => setIsOpen(false)} className="hover:text-green-700">Home</Link>
+            <Link to="/blog" onClick={() => setIsOpen(false)} className="hover:text-green-700">Blog</Link>
+            <Link to="/services" onClick={() => setIsOpen(false)} className="hover:text-green-700">Services</Link>
+            <Link to="/about" onClick={() => setIsOpen(false)} className="hover:text-green-700">About Us</Link>
+            <Link to="/contact" onClick={() => setIsOpen(false)} className="hover:text-green-700">Contact Us</Link>
 
             <div className="pt-4 border-t">
               <p className="mb-2 font-semibold">📞 +49 123 456 789</p>
-              <button className="w-full bg-green-700 text-white py-2 rounded-lg hover:bg-green-800 transition">
+              <button
+                type="button"
+                className="w-full bg-green-700 text-white py-2 rounded-lg hover:bg-green-800 transition"
+              >
                 Get Costing
               </button>
             </div>
