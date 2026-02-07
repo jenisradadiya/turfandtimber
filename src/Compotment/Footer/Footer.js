@@ -54,11 +54,11 @@ const Footer = () => {
             Quick Links
           </h3>
           <ul className="space-y-2 text-sm">
-            <li><a href="#" className="hover:text-green-400">Home</a></li>
-            <li><a href="#" className="hover:text-green-400">About Us</a></li>
-            <li><a href="#" className="hover:text-green-400">Services</a></li>
-            <li><a href="#" className="hover:text-green-400">Blog</a></li>
-            <li><a href="#" className="hover:text-green-400">Contact Us</a></li>
+            <li><a href="/home" className="hover:text-green-400">Home</a></li>
+            <li><a href="/aboutus" className="hover:text-green-400">About Us</a></li>
+            <li><a href="/services" className="hover:text-green-400">Services</a></li>
+            <li><a href="/blog" className="hover:text-green-400">Blog</a></li>
+            <li><a href="/contactus" className="hover:text-green-400">Contact Us</a></li>
           </ul>
         </div>
 
@@ -80,10 +80,10 @@ const Footer = () => {
 
           {/* Social Icons */}
           <div className="flex space-x-4 text-xl">
-            <a href="#" className="hover:text-green-400">🌐</a>
+            {/* <a href="#" className="hover:text-green-400">🌐</a>
             <a href="#" className="hover:text-green-400">📘</a>
             <a href="#" className="hover:text-green-400">📸</a>
-            <a href="#" className="hover:text-green-400">🐦</a>
+            <a href="#" className="hover:text-green-400">🐦</a> */}
           </div>
         </div>
 
