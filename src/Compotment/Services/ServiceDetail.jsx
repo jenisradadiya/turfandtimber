@@ -11,7 +11,7 @@ const ServiceDetail = () => {
     <div className="space-y-16">
 
       {/* Hero Section */}
-      <section className="bg-gray-100 py-16 pl-5 text-left pt-24">
+      <section className="bg-gray-100 py-16 pl-5 text-left ">
         <h1 className="text-4xl font-bold">{service.hero.title}</h1>
 
         <ul className="mt-6 space-y-2">

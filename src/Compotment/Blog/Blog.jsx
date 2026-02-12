@@ -1,3 +1,4 @@
+
 const blogs = [
   {
     id: 1,
@@ -27,22 +28,37 @@ const blogs = [
 
 export default function Blog() {
   return (
-    <div className="min-h-screen bg-gray-100 px-4 py-12 pt-24">
-      <div className="max-w-6xl mx-auto">
-        {/* Page Title */}
-        <h1 className="text-4xl font-bold text-center text-green-700">
-          Our Blog
-        </h1>
-        <p className="mt-2 text-center text-gray-600">
-          Insights, news, and updates from Agastya International
-        </p>
+    <div>
+      
+        {/* ================= HERO SECTION ================= */}
+        <section
+        className="relative text-white py-12 bg-cover bg-center"
+        style={{
+          backgroundImage: "url('/images/about-hero.jpg')" // your image path
+        }}
+        >
+        {/* Optional overlay for readability */}
+        <div className="absolute inset-0 bg-black/40"></div>
 
+        <div className="relative max-w-7xl mx-auto px-6 text-center">
+            <h1 className="text-4xl md:text-5xl font-bold mb-4">
+            Our Blog
+            </h1>
+
+            <p className="text-lg md:text-xl max-w-3xl mx-auto opacity-90">
+            Insights, news, and updates from Agastya International
+            </p>
+        </div>
+        </section>
+        
+    <div className="min-h-screen bg-gray-100 px-4 py-12">
+        <div className="max-w-6xl mx-auto">
         {/* Blog Cards */}
         <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
           {blogs.map((blog) => (
             <div
-              key={blog.id}
-              className="bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition"
+            key={blog.id}
+            className="bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition"
             >
               <h2 className="text-xl font-semibold text-gray-800">
                 {blog.title}
@@ -64,5 +80,6 @@ export default function Blog() {
         </div>
       </div>
     </div>
+          </div>
   );
 }

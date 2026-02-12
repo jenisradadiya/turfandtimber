@@ -1,18 +1,32 @@
 import React from 'react'
 
-export default function About() {
+function Project() {
   return (
-    <div className="min-h-screen bg-gray-100 px-4 py-12 pt-24">
-      <div className="max-w-5xl mx-auto">
-        <h1 className="text-4xl font-bold text-center text-green-700">
-          About Us
-        </h1>
+    <div>
+      {/* ================= HERO SECTION ================= */}
+        <section
+        className="relative text-white py-12 bg-cover bg-center"
+        style={{
+            backgroundImage: "url('/images/about-hero.jpg')" // your image path
+        }}
+        >
+        {/* Optional overlay for readability */}
+        <div className="absolute inset-0 bg-black/40"></div>
 
-        <p className="mt-6 text-gray-700 text-lg text-center">
-          Agastya International is committed to delivering eco-friendly,
+        <div className="relative max-w-7xl mx-auto px-6 text-center">
+            <h1 className="text-4xl md:text-5xl font-bold mb-4">
+            Our Projects
+            </h1>
+
+            <p className="text-lg md:text-xl max-w-3xl mx-auto opacity-90">
+            Agastya International is committed to delivering eco-friendly,
           plant-based disposable products that support sustainable living
           and a greener future.
-        </p>
+            </p>
+        </div>
+        </section>
+    <div className="min-h-screen bg-gray-100 px-4 py-12 ">
+      <div className="max-w-6xl mx-auto">
 
         <div className="mt-10 grid md:grid-cols-2 gap-8">
           <div className="bg-white p-6 rounded-xl shadow">
@@ -34,6 +48,8 @@ export default function About() {
         </div>
       </div>
     </div>
+    </div>
   );
 }
 
+export default Project
