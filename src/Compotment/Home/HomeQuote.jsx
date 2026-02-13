@@ -2,7 +2,7 @@ import React from 'react'
 
 function HomeQuote() {
   return (
-    <section className="bg-gray-50 py-16 px-4">
+    <section className="bg-gray-50 py-16 px-8">
       <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-10 items-start">
 
         {/* LEFT CONTENT */}

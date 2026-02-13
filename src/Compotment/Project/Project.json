@@ -1,0 +1,58 @@
+{
+  "decking": [
+    {
+      "id": 1,
+      "slug": "decking",
+      "title": "Decking Project 1",
+      "images": [
+        "/images/Hero/hero-bg-1.jpg",
+        "/images/Hero/hero-bg-2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Decking Project 2",
+      "images": ["/images/Hero/hero-bg-3.jpg"]
+    }
+  ],
+  "fencing": [
+    {
+      "id": 1,
+      "slug": "fencing",
+      "title": "Fencing Project 1",
+      "images": ["/images/projects/fencing-1.jpg"]
+    }
+  ],
+  "patios": [
+    {
+      "id": 1,
+      "slug": "patios",
+      "title": "Patios Project 1",
+      "images": ["/images/projects/patios-1.jpg"]
+    }
+  ],
+  "privacy-screens": [
+    {
+      "id": 1,
+      "slug": "privacy-screens",
+      "title": "Privacy Screens Project 1",
+      "images": ["/images/projects/privacy-1.jpg"]
+    }
+  ],
+  "retaining-walls": [
+    {
+      "id": 1,
+      "slug": "retaining-walls",
+      "title": "Retaining Wall Project 1",
+      "images": ["/images/projects/retaining-1.jpg"]
+    }
+  ],
+  "rubber-soft-fall": [
+    {
+      "id": 1,
+      "slug": "rubber-soft-fall",
+      "title": "Rubber Soft Fall Project 1",
+      "images": ["/images/projects/rubber-1.jpg"]
+    }
+  ]
+}
