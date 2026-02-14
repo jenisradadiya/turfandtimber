@@ -13,6 +13,7 @@ import ServiceDetail from './Compotment/Services/ServiceDetail';
 import Project from './Page/project/Project';
 import Blog from './Page/blog/Blog';
 import BlogDetail from './Compotment/Blog/BlogDetail';
+import Admin from './Page/admin/Admin';
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
         <Route path="/about" element={<About/>} />
         <Route path="/contact" element={<Contact/>} />
         <Route path='/project' element={<Project/>}/>
+        <Route path='/admin' element={<Admin/>}/>
         <Route path='*' element={<ErrorPage/>}/>
       </Routes>
       <WhatsAppButton/>
