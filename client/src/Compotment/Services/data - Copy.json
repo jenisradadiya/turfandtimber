@@ -1,0 +1,488 @@
+[
+  {
+    "id": "fencing",
+    "slug": "fencing",
+    "card": {
+      "title": "Fencing Brisbane",
+      "subtitle": "Fencing",
+      "description": "Fencing experts you can rely on in Brisbane and surrounding areas. Get your fencing installed by a professional team without paying upfront.",
+      "image": "/images/Hero/hero-bg-1.jpg"
+    },
+    "hero": {
+      "title": "Fencing Brisbane Northside",
+      "highlights": [
+        "We Never Subcontract Work Out",
+        "Tailored Fencing Solutions",
+        "Secure, Stylish & Sustainable",
+        "Australian Made Products"
+      ],
+      "ctaText": "Free Online Estimate"
+    },
+    "contentSection": {
+      "heading": "Where Quality Meets Durability: Fencing Solutions in Brisbane",
+      "paragraphs": [
+        "Are you looking to secure your Brisbane home with beautiful, durable, high-quality fencing? Astro Klean’s fencing experts can help you.",
+        "Fencing is often a requirement in Brisbane when you’re looking to protect your property, family and investments, enhance security, define boundaries, ensure privacy, or add aesthetic appeal to your home.",
+        "Astro Klean, a leading name in fence installation, can cater to all your fencing needs. We strive to ensure that safety meets the beauty standards your home deserves."
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+    "ProcessSection":{
+
+      "process": [
+        {
+          "title": "Free Measure and Quote",
+          "description": "Our experts visit your property and provide a no-obligation quote."
+        },
+        {
+          "title": "Design and Planning",
+          "description": "We customise a fencing solution to suit your style and budget."
+        },
+        {
+          "title": "Installation",
+          "description": "Our skilled team installs your fence to the highest standards."
+        },
+        {
+          "title": "Clean Up",
+          "description": "We leave your property clean and tidy after installation."
+        }
+      ],
+        "image": "/images/Hero/hero-bg-1.jpg",
+        "imagePosition": "Left"
+    },
+    "BenefitsSection":{
+
+      "benefits": [
+        "Creates a sound barrier and improves security",
+        "Adds privacy and removes unsightly views",
+        "Protects kids and pets",
+        "Enhances property value",
+        "Protects landscaping",
+        "Blocks noise and improves comfort"
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+
+    "projects": [
+      {
+        "title": "Colorbond Fence",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Fencing Job",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Colorbond Fencing",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "decking",
+    "slug": "decking",
+    "card": {
+      "title": "Fencing Brisbane",
+      "subtitle": "Fencing",
+      "description": "Fencing experts you can rely on in Brisbane and surrounding areas. Get your decking installed by a professional team without paying upfront.",
+      "image": "/images/Hero/hero-bg-1.jpg"
+    },
+    "hero": {
+      "title": "Fencing Brisbane Northside",
+      "highlights": [
+        "We Never Subcontract Work Out",
+        "Tailored Fencing Solutions",
+        "Secure, Stylish & Sustainable",
+        "Australian Made Products"
+      ],
+      "ctaText": "Free Online Estimate"
+    },
+    "contentSection": {
+      "heading": "Where Quality Meets Durability: Fencing Solutions in Brisbane",
+      "paragraphs": [
+        "Are you looking to secure your Brisbane home with beautiful, durable, high-quality decking? Astro Klean’s decking experts can help you.",
+        "Fencing is often a requirement in Brisbane when you’re looking to protect your property, family and investments, enhance security, define boundaries, ensure privacy, or add aesthetic appeal to your home.",
+        "Astro Klean, a leading name in fence installation, can cater to all your fencing needs. We strive to ensure that safety meets the beauty standards your home deserves."
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+    "ProcessSection":{
+
+      "process": [
+        {
+          "title": "Free Measure and Quote",
+          "description": "Our experts visit your property and provide a no-obligation quote."
+        },
+        {
+          "title": "Design and Planning",
+          "description": "We customise a fencing solution to suit your style and budget."
+        },
+        {
+          "title": "Installation",
+          "description": "Our skilled team installs your fence to the highest standards."
+        },
+        {
+          "title": "Clean Up",
+          "description": "We leave your property clean and tidy after installation."
+        }
+      ],
+        "image": "/images/Hero/hero-bg-1.jpg",
+        "imagePosition": "Left"
+    },
+    "BenefitsSection":{
+
+      "benefits": [
+        "Creates a sound barrier and improves security",
+        "Adds privacy and removes unsightly views",
+        "Protects kids and pets",
+        "Enhances property value",
+        "Protects landscaping",
+        "Blocks noise and improves comfort"
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+
+    "projects": [
+      {
+        "title": "Colorbond Fence",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Fencing Job",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Colorbond Fencing",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "patios",
+    "slug": "patios",
+    "card": {
+      "title": "Fencing Brisbane",
+      "subtitle": "Fencing",
+      "description": "Fencing experts you can rely on in Brisbane and surrounding areas. Get your patios installed by a professional team without paying upfront.",
+      "image": "/images/Hero/hero-bg-1.jpg"
+    },
+    "hero": {
+      "title": "Fencing Brisbane Northside",
+      "highlights": [
+        "We Never Subcontract Work Out",
+        "Tailored Fencing Solutions",
+        "Secure, Stylish & Sustainable",
+        "Australian Made Products"
+      ],
+      "ctaText": "Free Online Estimate"
+    },
+    "contentSection": {
+      "heading": "Where Quality Meets Durability: Fencing Solutions in Brisbane",
+      "paragraphs": [
+        "Are you looking to secure your Brisbane home with beautiful, durable, high-quality patios? Astro Klean’s patios experts can help you.",
+        "Fencing is often a requirement in Brisbane when you’re looking to protect your property, family and investments, enhance security, define boundaries, ensure privacy, or add aesthetic appeal to your home.",
+        "Astro Klean, a leading name in fence installation, can cater to all your fencing needs. We strive to ensure that safety meets the beauty standards your home deserves."
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+    "ProcessSection":{
+
+      "process": [
+        {
+          "title": "Free Measure and Quote",
+          "description": "Our experts visit your property and provide a no-obligation quote."
+        },
+        {
+          "title": "Design and Planning",
+          "description": "We customise a fencing solution to suit your style and budget."
+        },
+        {
+          "title": "Installation",
+          "description": "Our skilled team installs your fence to the highest standards."
+        },
+        {
+          "title": "Clean Up",
+          "description": "We leave your property clean and tidy after installation."
+        }
+      ],
+        "image": "/images/Hero/hero-bg-1.jpg",
+        "imagePosition": "Left"
+    },
+    "BenefitsSection":{
+
+      "benefits": [
+        "Creates a sound barrier and improves security",
+        "Adds privacy and removes unsightly views",
+        "Protects kids and pets",
+        "Enhances property value",
+        "Protects landscaping",
+        "Blocks noise and improves comfort"
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+
+    "projects": [
+      {
+        "title": "Colorbond Fence",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Fencing Job",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Colorbond Fencing",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "privacy screen",
+    "slug": "privacy-screens",
+    "card": {
+      "title": "Fencing Brisbane",
+      "subtitle": "Fencing",
+      "description": "Fencing experts you can rely on in Brisbane and surrounding areas. Get your privacy screen installed by a professional team without paying upfront.",
+      "image": "/images/Hero/hero-bg-1.jpg"
+    },
+    "hero": {
+      "title": "Fencing Brisbane Northside",
+      "highlights": [
+        "We Never Subcontract Work Out",
+        "Tailored Fencing Solutions",
+        "Secure, Stylish & Sustainable",
+        "Australian Made Products"
+      ],
+      "ctaText": "Free Online Estimate"
+    },
+    "contentSection": {
+      "heading": "Where Quality Meets Durability: Fencing Solutions in Brisbane",
+      "paragraphs": [
+        "Are you looking to secure your Brisbane home with beautiful, durable, high-quality privacy screen? Astro Klean’s privacy screen experts can help you.",
+        "Fencing is often a requirement in Brisbane when you’re looking to protect your property, family and investments, enhance security, define boundaries, ensure privacy, or add aesthetic appeal to your home.",
+        "Astro Klean, a leading name in fence installation, can cater to all your privacy screen needs. We strive to ensure that safety meets the beauty standards your home deserves."
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+    "ProcessSection":{
+
+      "process": [
+        {
+          "title": "Free Measure and Quote",
+          "description": "Our experts visit your property and provide a no-obligation quote."
+        },
+        {
+          "title": "Design and Planning",
+          "description": "We customise a fencing solution to suit your style and budget."
+        },
+        {
+          "title": "Installation",
+          "description": "Our skilled team installs your fence to the highest standards."
+        },
+        {
+          "title": "Clean Up",
+          "description": "We leave your property clean and tidy after installation."
+        }
+      ],
+        "image": "/images/Hero/hero-bg-1.jpg",
+        "imagePosition": "Left"
+    },
+    "BenefitsSection":{
+
+      "benefits": [
+        "Creates a sound barrier and improves security",
+        "Adds privacy and removes unsightly views",
+        "Protects kids and pets",
+        "Enhances property value",
+        "Protects landscaping",
+        "Blocks noise and improves comfort"
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+
+    "projects": [
+      {
+        "title": "Colorbond Fence",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Fencing Job",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Colorbond Fencing",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "retaining wall",
+    "slug": "retaining-walls",
+    "card": {
+      "title": "Fencing Brisbane",
+      "subtitle": "Fencing",
+      "description": "Fencing experts you can rely on in Brisbane and surrounding areas. Get your fencing installed by a professional team without paying upfront.",
+      "image": "/images/Hero/hero-bg-1.jpg"
+    },
+    "hero": {
+      "title": "Fencing Brisbane Northside",
+      "highlights": [
+        "We Never Subcontract Work Out",
+        "Tailored Fencing Solutions",
+        "Secure, Stylish & Sustainable",
+        "Australian Made Products"
+      ],
+      "ctaText": "Free Online Estimate"
+    },
+    "contentSection": {
+      "heading": "Where Quality Meets Durability: Fencing Solutions in Brisbane",
+      "paragraphs": [
+        "Are you looking to secure your Brisbane home with beautiful, durable, high-quality fencing? Astro Klean’s fencing experts can help you.",
+        "Fencing is often a requirement in Brisbane when you’re looking to protect your property, family and investments, enhance security, define boundaries, ensure privacy, or add aesthetic appeal to your home.",
+        "Astro Klean, a leading name in fence installation, can cater to all your fencing needs. We strive to ensure that safety meets the beauty standards your home deserves."
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+    "ProcessSection":{
+
+      "process": [
+        {
+          "title": "Free Measure and Quote",
+          "description": "Our experts visit your property and provide a no-obligation quote."
+        },
+        {
+          "title": "Design and Planning",
+          "description": "We customise a fencing solution to suit your style and budget."
+        },
+        {
+          "title": "Installation",
+          "description": "Our skilled team installs your fence to the highest standards."
+        },
+        {
+          "title": "Clean Up",
+          "description": "We leave your property clean and tidy after installation."
+        }
+      ],
+        "image": "/images/Hero/hero-bg-1.jpg",
+        "imagePosition": "Left"
+    },
+    "BenefitsSection":{
+
+      "benefits": [
+        "Creates a sound barrier and improves security",
+        "Adds privacy and removes unsightly views",
+        "Protects kids and pets",
+        "Enhances property value",
+        "Protects landscaping",
+        "Blocks noise and improves comfort"
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+
+    "projects": [
+      {
+        "title": "Colorbond Fence",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Fencing Job",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Colorbond Fencing",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "Rubber Soft Fall",
+    "slug": "rubber-soft-fall",
+    "card": {
+      "title": "Fencing Brisbane",
+      "subtitle": "Fencing",
+      "description": "Fencing experts you can rely on in Brisbane and surrounding areas. Get your fencing installed by a professional team without paying upfront.",
+      "image": "/images/Hero/hero-bg-1.jpg"
+    },
+    "hero": {
+      "title": "Fencing Brisbane Northside",
+      "highlights": [
+        "We Never Subcontract Work Out",
+        "Tailored Fencing Solutions",
+        "Secure, Stylish & Sustainable",
+        "Australian Made Products"
+      ],
+      "ctaText": "Free Online Estimate"
+    },
+    "contentSection": {
+      "heading": "Where Quality Meets Durability: Fencing Solutions in Brisbane",
+      "paragraphs": [
+        "Are you looking to secure your Brisbane home with beautiful, durable, high-quality fencing? Astro Klean’s fencing experts can help you.",
+        "Fencing is often a requirement in Brisbane when you’re looking to protect your property, family and investments, enhance security, define boundaries, ensure privacy, or add aesthetic appeal to your home.",
+        "Astro Klean, a leading name in fence installation, can cater to all your fencing needs. We strive to ensure that safety meets the beauty standards your home deserves."
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+    "ProcessSection":{
+
+      "process": [
+        {
+          "title": "Free Measure and Quote",
+          "description": "Our experts visit your property and provide a no-obligation quote."
+        },
+        {
+          "title": "Design and Planning",
+          "description": "We customise a fencing solution to suit your style and budget."
+        },
+        {
+          "title": "Installation",
+          "description": "Our skilled team installs your fence to the highest standards."
+        },
+        {
+          "title": "Clean Up",
+          "description": "We leave your property clean and tidy after installation."
+        }
+      ],
+        "image": "/images/Hero/hero-bg-1.jpg",
+        "imagePosition": "Left"
+    },
+    "BenefitsSection":{
+
+      "benefits": [
+        "Creates a sound barrier and improves security",
+        "Adds privacy and removes unsightly views",
+        "Protects kids and pets",
+        "Enhances property value",
+        "Protects landscaping",
+        "Blocks noise and improves comfort"
+      ],
+      "image": "/images/Hero/hero-bg-1.jpg",
+      "imagePosition": "right"
+    },
+
+    "projects": [
+      {
+        "title": "Colorbond Fence",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Fencing Job",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      },
+      {
+        "title": "Colorbond Fencing",
+        "image": "/images/Hero/hero-bg-1.jpg"
+      }
+    ]
+  }
+]
