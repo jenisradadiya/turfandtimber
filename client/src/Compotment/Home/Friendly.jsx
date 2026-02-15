@@ -18,8 +18,7 @@ const Friendly = () => {
     }, 2000);
 
     return () => clearInterval(interval);
-  }, 
-  []);
+  });
 
   return (
     <section className="py-16 bg-white px-4">

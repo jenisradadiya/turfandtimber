@@ -12,6 +12,21 @@ code {
     monospace;
 }
 
+@media (max-width: 767px) {
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none !important;
+  }
+}
+
+/* Scale the active center testimonial */
+.swiper-slide-active {
+  transform: scale(1.05);
+  transition: transform 0.5s;
+}
+
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
