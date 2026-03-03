@@ -85,7 +85,7 @@ const Header = () => {
           </NavLink>
 
          {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-8 font-medium text-gray-700 relative">
+          <nav className="hidden md:flex items-center gap-8 font-medium text-gray-700 relative">
             {navItems.map((item) =>
               !item.hasDropdown ? (
                 <NavLink
